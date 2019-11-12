@@ -1,4 +1,4 @@
-# full-stack-with-angular-and-spring-boot-master
+#angular-spring-boot
 full-stack-with-angular-and-spring-boot-master with CRUD operations
 
 
