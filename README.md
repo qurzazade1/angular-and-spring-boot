@@ -1,5 +1,5 @@
 #angular-spring-boot
-full-stack-with-angular-and-spring-boot-master with CRUD operations
+angular and spring-boot with CRUD operations
 
 
 I have used
